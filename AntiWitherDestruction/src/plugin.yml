@@ -1,0 +1,6 @@
+main: com.ekstemicraft.plugin.antiwitherdestruction.AntiWitherDestruction
+name: AntiWitherDestruction
+desrciption: Block all wither blockdamage.
+version: 0.3
+author: Emil Ekstrom aka Uncle_Emil. On bukkit forums known as Ekstemi
+prefix: AWD
